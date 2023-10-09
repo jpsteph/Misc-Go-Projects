@@ -1,2 +1,2 @@
 # Misc-Go-Projects
-Small Go-Lang Utilities 
+Go-Lang Utilities I have developed over the last few months. 
